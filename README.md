@@ -1,6 +1,6 @@
 ###Boas vindas ao meu perfil ✨✨
 
-meu nome é Maria Eduarda
+meu nome é Maria Eduarda 🫶🏻🫶🏻
 
 - estou estudando no Alura
 - Estou me desenvolvendo na linguagem JavaSchipt
